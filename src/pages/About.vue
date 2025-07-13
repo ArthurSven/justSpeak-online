@@ -9,8 +9,8 @@ export default {
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">Frustration is an opportunity knocking</h2>
-            <p class="mb-4">JustSpeak was born out of purpose, frustration and passion. Tired of learning German without direction and provision, just raw passion and God given vision while in Malawi. </p>
-            <p>JustSpeak serves as the bridge for many Malawians and other nationalities to learn German for a very affordable fee. Coming from Malawi, forex is a hassle to find, traveling to Tanzania and Zimbabwe
+            <p class="mb-4 text-gray-500">JustSpeak was born out of purpose, frustration and passion. Tired of learning German without direction and provision, just raw passion and God given vision while in Malawi. </p>
+            <p class="text-gray-500 mb-4">JustSpeak serves as the bridge for many Malawians and other nationalities to learn German for a very affordable fee. Coming from Malawi, forex is a hassle to find, traveling to Tanzania and Zimbabwe
                 is tiresome and costs so much. JustSpeak was launched to ensure people find direction in the learning process, saving people a decade of learning German alone like Arthur did.
             </p>
         </div>
