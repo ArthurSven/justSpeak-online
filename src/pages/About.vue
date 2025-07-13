@@ -21,26 +21,26 @@ export default {
     </div>
 </section>
 
-    <section class="bg-gray-50">
-        <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
-            <h2 class="mb-8 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Our Team</h2>
-            <div class="grid md:grid-cols-3 gap-8">
-                <div class="bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded-lg p-6">
-                    <img class="w-full h-48 object-cover rounded-t-lg mb-4" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/team-member-1.jpg" alt="Team Member 1">
-                    <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Arthur Msiska</h3>
-                    <p class="text-gray-500 dark:text-gray-400">Founder & German teacher</p>
-                </div>
-                <!-- <div class="bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded-lg p-6">
-                    <img class="w-full h-48 object-cover rounded-t-lg mb-4" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/team-member-2.jpg" alt="Team Member 2">
-                    <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Jane Smith</h3>
-                    <p class="text-gray-500 dark:text-gray-400">CTO</p>
-                </div>
-                <div class="bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded-lg p-6">
-                    <img class="w-full h-48 object-cover rounded-t-lg mb-4" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/team-member-3.jpg" alt="Team Member 3">
-                    <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Alice Johnson</h3>
-                    <p class="text-gray-500 dark:text-gray-400">Lead Designer</p>
-                </div> -->
-            </div>
-        </div>
-    </section>
+<!--    <section class="bg-gray-50">-->
+<!--        <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">-->
+<!--            <h2 class="mb-8 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Our Team</h2>-->
+<!--            <div class="grid md:grid-cols-3 gap-8">-->
+<!--                <div class="bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded-lg p-6">-->
+<!--                    <img class="w-full h-48 object-cover rounded-t-lg mb-4" src="../assets/images/artska.png" alt="Team Member 1">-->
+<!--                    <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Arthur Msiska</h3>-->
+<!--                    <p class="text-gray-500 dark:text-gray-400">Founder & German teacher</p>-->
+<!--                </div>-->
+<!--                &lt;!&ndash; <div class="bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded-lg p-6">-->
+<!--                    <img class="w-full h-48 object-cover rounded-t-lg mb-4" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/team-member-2.jpg" alt="Team Member 2">-->
+<!--                    <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Jane Smith</h3>-->
+<!--                    <p class="text-gray-500 dark:text-gray-400">CTO</p>-->
+<!--                </div>-->
+<!--                <div class="bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded-lg p-6">-->
+<!--                    <img class="w-full h-48 object-cover rounded-t-lg mb-4" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/team-member-3.jpg" alt="Team Member 3">-->
+<!--                    <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Alice Johnson</h3>-->
+<!--                    <p class="text-gray-500 dark:text-gray-400">Lead Designer</p>-->
+<!--                </div> &ndash;&gt;-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
 </template>
